@@ -1,6 +1,3 @@
-Here’s the updated content with the video explanation link added:
-
-```markdown
 # Amazon Product Scraper and Data Analysis
 
 ## Project Overview
