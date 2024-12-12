@@ -89,4 +89,3 @@ amazon-scraper/
 - **Email**: pst29@drexel.edu
 ```
 
-Let me know if you’d like further refinements!
